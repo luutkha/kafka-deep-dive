@@ -1,0 +1,4 @@
+package kafka.deep.dive.service;
+
+public class KafkaService {
+}
